@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Restu Maualan
+- 👋 Hi, I’m Restu Maualana
 - 👀 I’m interested in full stack web developer with React.js and CodeIgniter
 - 🌱 I’m currently learning php, sass, and javascript
 - 💞️ I’m looking to collaborate on web developer
