@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Restu Maualana
-- 👀 I’m interested in full stack web developer with React.js and CodeIgniter
-- 🌱 I’m currently learning php, sass, and javascript
-- 💞️ I’m looking to collaborate on web developer
-- 📫 How to reach me Ig : @boch_gabut
+Hi there 👋, I'm Restu Maulana!
 
 <!---
 BocahGabut/BocahGabut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
