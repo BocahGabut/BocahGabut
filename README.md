@@ -24,29 +24,29 @@ a troubleshooting a computer.
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bochgabut) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/restumaulana18) 
 
 ## My Recent Work :
-  **Point Of Sale**
+## Point Of Sale
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/pos/pos%20kasir%201.1.PNG)
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/pos/pos%20admin%201.1.PNG)
-## Tech Stack : 
+  **Tech Stack :** 
    - PHP
    - HTML
    - MYSQL
    - CODEIGNITER
 
-  **Audit Management System**
+## Audit Management System
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/audit/audit1.1.PNG)
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/audit/audit1.2.PNG)
-## Tech Stack : 
+  **Tech Stack :** 
    - PHP
    - HTML
    - MYSQL
    - CODEIGNITER
 
-**Hotel Management System**
+## Hotel Management System
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/hotel/hotel%201.1.PNG)
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/hotel/hotel%201.2.PNG)
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/hotel/hotel1.4.PNG)
-## Tech Stack : 
+  **Tech Stack :** 
    - PHP
    - HTML
    - MYSQL
