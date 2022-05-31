@@ -61,4 +61,4 @@ a troubleshooting a computer.
  **Tech Stack :** 
    - React Native
    - Javascript
-   - Api Pixabay
+   - Api from [Pixabay](https://pixabay.com/api/docs/)
