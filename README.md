@@ -55,4 +55,10 @@ a troubleshooting a computer.
    - MYSQL
    - CODEIGNITER
 
-![pos1.1](https://instagram.fcgk24-1.fna.fbcdn.net/v/t51.2885-15/141691650_421961525925253_3576151716506215977_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fcgk24-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=AGFO-_NhUFcAX9l9EBG&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjQ5MjA0MjcyNzIwMzUyNTk1NQ%3D%3D.2-ccb7-5&oh=00_AT-vv-83z542S8DTopeA_VvUK-l5hEy1CYjrwvk6BzE0ZA&oe=629C9D0B&_nc_sid=30a2ef)
+## Wallpaper App
+   ![pos1.1](https://instagram.fcgk24-1.fna.fbcdn.net/v/t51.2885-15/141691650_421961525925253_3576151716506215977_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fcgk24-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=AGFO-_NhUFcAX9l9EBG&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjQ5MjA0MjcyNzIwMzUyNTk1NQ%3D%3D.2-ccb7-5&oh=00_AT-vv-83z542S8DTopeA_VvUK-l5hEy1CYjrwvk6BzE0ZA&oe=629C9D0B&_nc_sid=30a2ef)
+
+ **Tech Stack :** 
+   - React Native
+   - Javascript
+   - Api Pixabay
