@@ -27,7 +27,7 @@ a troubleshooting a computer.
   **Point Of Sale**
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/pos/pos%20kasir%201.1.PNG)
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/pos/pos%20admin%201.1.PNG)
-## Tech : 
+## Tech Stack : 
    - PHP
    - HTML
    - MYSQL
@@ -36,7 +36,7 @@ a troubleshooting a computer.
   **Audit System**
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/audit/audit1.1.PNG)
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/audit/audit1.2.PNG)
-## Tech : 
+## Tech Stack : 
    - PHP
    - HTML
    - MYSQL
@@ -46,7 +46,7 @@ a troubleshooting a computer.
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/hotel/hotel%201.1.PNG)
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/hotel/hotel%201.2.PNG)
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/hotel/hotel1.4.PNG)
-## Tech : 
+## Tech Stack : 
    - PHP
    - HTML
    - MYSQL
