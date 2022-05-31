@@ -24,4 +24,5 @@ a troubleshooting a computer.
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bochgabut) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/restumaulana18) 
 
 ## My Recent Work :
-  **Point Of Sale
+  **Point Of Sale**
+    ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/pos/pos%20admin%201.1.PNG)
