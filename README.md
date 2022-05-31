@@ -33,7 +33,7 @@ a troubleshooting a computer.
    - MYSQL
    - CODEIGNITER
 
-  **Audit System**
+  **Audit Management System**
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/audit/audit1.1.PNG)
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/audit/audit1.2.PNG)
 ## Tech Stack : 
@@ -42,7 +42,7 @@ a troubleshooting a computer.
    - MYSQL
    - CODEIGNITER
 
-**Audit System**
+**Hotel Management System**
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/hotel/hotel%201.1.PNG)
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/hotel/hotel%201.2.PNG)
     ![pos1.1](https://github.com/BocahGabut/publicimage/blob/8daa9ed7535f7e49f711e7c366f789e2c172d81b/hotel/hotel1.4.PNG)
